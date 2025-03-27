@@ -1,4 +1,4 @@
-package runner;  // Make sure this matches your folder structure
+package runner;  
 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
