@@ -1,0 +1,7 @@
+<suite name="Selenium Cucumber Suite">
+    <test name="Login Tests">
+        <classes>
+            <class name="runner.TestRunner"/>
+        </classes>
+    </test>
+</suite>
